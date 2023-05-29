@@ -1,3 +1,5 @@
+package ex;
+
 import java.util.Scanner;
 
 public class SomaDoisValores {
@@ -9,5 +11,6 @@ public class SomaDoisValores {
         int b = sc.nextInt();
         int c = a + b;
         System.out.println("x = " + c);
+        sc.close();
     }
 }

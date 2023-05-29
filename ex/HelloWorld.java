@@ -1,3 +1,5 @@
+package ex;
+
 public class HelloWorld {
 
     public void printHelloWorld(){
