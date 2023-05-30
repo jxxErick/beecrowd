@@ -25,13 +25,17 @@ public class Main {
         // System.out.println(soma);
 
         // 1004
-       // ProdutoSimples produtoSimples = new ProdutoSimples();
+        // ProdutoSimples produtoSimples = new ProdutoSimples();
         //int PROD = produtoSimples.mp();
         // System.out.println(PROD);
 
         //1005
-        Media media = new Media();
-        media.mediaAluno();
+        //  Media media = new Media();
+        // media.mediaAluno();
+
+        // 1006
+       // Media media = new Media();
+       // media.mediaAlunoDois();
     }
 
 }
