@@ -37,6 +37,10 @@ public class Main {
         // 1006 - media de tres valores de notas com peso
        // Media media = new Media();
        // media.mediaAlunoDois();
+
+        // 1007 - diferenca de 4 valores
+       // Diferenca diferenca = new Diferenca();
+        //diferenca.diferencaDeQuatroValores();
     }
 
 }
