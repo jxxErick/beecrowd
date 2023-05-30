@@ -22,8 +22,9 @@ public class Main {
         // calculaAreaDoCirculo.calculaArea();
 
     // 1003
-
-
+   // SomaDoisValores somaDoisValores = new SomaDoisValores();
+   // int soma = somaDoisValores.somaSimples();
+    // System.out.println(soma);
     }
 
 }

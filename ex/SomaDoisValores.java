@@ -13,4 +13,12 @@ public class SomaDoisValores {
         System.out.println("x = " + c);
         sc.close();
     }
+
+    public int somaSimples (){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Escreva os valores a serem somados");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        return a + b;
+    }
 }
