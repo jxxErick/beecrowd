@@ -1,5 +1,6 @@
 import ex.*;
 
+
 import java.io.IOException;
 
 
@@ -19,21 +20,21 @@ public class Main {
         // CalculaAreaDoCirculo calculaAreaDoCirculo = new CalculaAreaDoCirculo();
         // calculaAreaDoCirculo.calculaArea();
 
-        // 1003
+        // 1003 - somar dois valores
         // SomaDoisValores somaDoisValores = new SomaDoisValores();
         // int soma = somaDoisValores.somaSimples();
         // System.out.println(soma);
 
-        // 1004
+        // 1004 - multiplicar dois valores
         // ProdutoSimples produtoSimples = new ProdutoSimples();
         //int PROD = produtoSimples.mp();
         // System.out.println(PROD);
 
-        //1005
+        //1005 - media de dois valores de notas com peso
         //  Media media = new Media();
         // media.mediaAluno();
 
-        // 1006
+        // 1006 - media de tres valores de notas com peso
        // Media media = new Media();
        // media.mediaAlunoDois();
     }
