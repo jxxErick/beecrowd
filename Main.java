@@ -1,7 +1,4 @@
-import ex.CalculaAreaDoCirculo;
-import ex.HelloWorld;
-import ex.ProdutoSimples;
-import ex.SomaDoisValores;
+import ex.*;
 
 import java.io.IOException;
 
@@ -31,6 +28,10 @@ public class Main {
        // ProdutoSimples produtoSimples = new ProdutoSimples();
         //int PROD = produtoSimples.mp();
         // System.out.println(PROD);
+
+        //1005
+        Media media = new Media();
+        media.mediaAluno();
     }
 
 }
