@@ -10,5 +10,5 @@ Todo dia vou fazer um pouco dos desafios do <a href="https://www.beecrowd.com.br
         <img src="https://img.shields.io/badge/Java-v17-blue.svg" />
     </a>
 <p>
-Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal para desenvovlimento da solução e chamarei o método em main
+Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal para desenvolvimento da solução e chamarei o método em main
 </p>
