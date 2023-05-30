@@ -41,6 +41,10 @@ public class Main {
         // 1007 - diferenca de 4 valores
        // Diferenca diferenca = new Diferenca();
         //diferenca.diferencaDeQuatroValores();
+
+        // 1008 - calcular salario em base de horas trabalhadas e valor por hora
+        // Salario salario = new Salario();
+        // salario.calcularSalario();
     }
 
 }
