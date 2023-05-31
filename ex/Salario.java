@@ -19,4 +19,20 @@ public class Salario {
         System.out.println("Salary: U$ " + new DecimalFormat("0.##").format(d) );
         sc.close();
     }
+
+    public void calcularSalarioComBonus(){
+        Scanner sc = new Scanner(System.in);
+        double b, c, d;
+        String a;
+        System.out.println("Insira o nome do funcionário, salario e vendas: ");
+        a = sc.nextLine();
+        b = sc.nextDouble();
+        c = sc.nextDouble();
+        d = b + (c*0.15);
+        System.out.println(a);
+        System.out.println("Salary: U$ " + new DecimalFormat("0.##").format(d) );
+        sc.close();
+    }
+
+
 }

@@ -45,6 +45,11 @@ public class Main {
         // 1008 - calcular salario em base de horas trabalhadas e valor por hora
         // Salario salario = new Salario();
         // salario.calcularSalario();
+
+        // 1009 salario com bonus
+        // Salario salario = new Salario();
+        // salario.calcularSalarioComBonus();
+
     }
 
 }
