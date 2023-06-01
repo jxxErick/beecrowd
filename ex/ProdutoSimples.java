@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ProdutoSimples {
 
+    //1004 - Produto Simples
     public int mp (){
         int a, b;
         Scanner sc = new Scanner(System.in);

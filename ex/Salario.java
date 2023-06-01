@@ -7,6 +7,7 @@ import static java.lang.String.format;
 
 public class Salario {
 
+    // 1008 - Salario
     public void calcularSalario(){
         Scanner sc = new Scanner(System.in);
         double a, b, c, d;
@@ -20,6 +21,7 @@ public class Salario {
         sc.close();
     }
 
+    // 1009 - salario com bonus
     public void calcularSalarioComBonus(){
         Scanner sc = new Scanner(System.in);
         double b, c, d;

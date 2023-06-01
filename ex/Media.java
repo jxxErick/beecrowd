@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Media {
-
+    // 1005 - Media 1
     public void mediaAluno(){
         Scanner sc = new Scanner(System.in);
         double a, b, c;
@@ -15,6 +15,8 @@ public class Media {
         System.out.println("Media: " + new DecimalFormat("0.#####").format(c));
         sc.close();
     }
+
+    // 1006 - Media 2
     public void mediaAlunoDois(){
         Scanner sc = new Scanner(System.in);
         double a, b, c, d;

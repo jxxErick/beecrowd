@@ -1,13 +1,13 @@
 package ex;
 
 import java.text.DecimalFormat;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 import static java.lang.String.format;
 
 public class CalculoSimples {
 
+    // 1010 - Calculo simples
     public void calculoPeca(){
         Scanner sc = new Scanner(System.in);
 

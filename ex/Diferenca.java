@@ -3,6 +3,8 @@ package ex;
 import java.util.Scanner;
 
 public class Diferenca {
+
+    // 1007 - diferença
    public void diferencaDeQuatroValores(){
        Scanner sc = new Scanner(System.in);
 

@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class CalculaAreaDoCirculo {
 
+    // 1002 - area do circulo
     public void calculaArea(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira o valor do raio que deseja calcular a area: ");
@@ -14,4 +15,6 @@ public class CalculaAreaDoCirculo {
 
         sc.close();
     }
+
+
 }
