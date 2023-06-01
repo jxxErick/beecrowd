@@ -50,6 +50,9 @@ public class Main {
         // Salario salario = new Salario();
         // salario.calcularSalarioComBonus();
 
+        // 1010 calculo simples
+        // CalculoSimples calculoSimples = new CalculoSimples();
+        // calculoSimples.calculoPeca();
     }
 
 }
