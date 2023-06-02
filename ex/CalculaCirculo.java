@@ -3,7 +3,7 @@ package ex;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class CalculaAreaDoCirculo {
+public class CalculaCirculo {
 
     // 1002 - area do circulo
     public void calculaArea(){
@@ -16,5 +16,16 @@ public class CalculaAreaDoCirculo {
         sc.close();
     }
 
+    // 1011 - calcula volume
+    public void calculaVolume(){
+        System.out.println("Qual o raio da esfera que deseja calcular o volume? ");
+        Scanner sc = new Scanner(System.in);
+        double pi = 3.14159;
+        double r, v;
+        r = sc.nextDouble();
+        v = (4.0/3.0) * pi * Math.pow(r, 3);
+        System.out.println("Volume: " + new DecimalFormat("#0.###").format(v));
+        sc.close();
+    }
 
 }

@@ -18,7 +18,7 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <ul>
 <li ><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/HelloWorld.java"> 1000 - Hello World</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/SomaDoisValores.java"> 1001 - Extremamente básico</a></li>
-<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculaAreaDoCirculo.java"> 1002 -  Área do circulo</a></li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculaCirculo.java"> 1002 -  Área do circulo</a></li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/SomaDoisValores.java"> 1003 - Soma simples </a></li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/ProdutoSimples.java"> 1004 - Produto Simples</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Media.java"> 1005 - Media 1 </a></li>
@@ -27,4 +27,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Salario.java"> 1008 - Salario </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Salario.java"> 1009 - Salario com bonus</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoSimples.java"> 1010 - Calculo Simples</a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoCirculo.java"> 1011 - Esfera</a> </li>
 </ul>

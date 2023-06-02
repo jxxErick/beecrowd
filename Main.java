@@ -17,7 +17,7 @@ public class Main {
         // somaDoisValores.soma();
 
         // ex 1002 - fazer o calculo de uma area do circulo, recebendo o raio
-        // CalculaAreaDoCirculo calculaAreaDoCirculo = new CalculaAreaDoCirculo();
+        // CalculaCirculo calculaAreaDoCirculo = new CalculaCirculo();
         // calculaAreaDoCirculo.calculaArea();
 
         // 1003 - somar dois valores
@@ -53,6 +53,10 @@ public class Main {
         // 1010 calculo simples
         // CalculoSimples calculoSimples = new CalculoSimples();
         // calculoSimples.calculoPeca();
+
+        // 1011 esfera
+        CalculaCirculo calculaCirculo = new CalculaCirculo();
+        calculaCirculo.calculaVolume();
     }
 
 }

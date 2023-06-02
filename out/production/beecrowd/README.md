@@ -26,4 +26,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Diferenca.java"> 1007 - Diferença </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Salario.java"> 1008 - Salario </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Salario.java"> 1009 - Salario com bonus</a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoSimples.java"> 1010 - Calculo Simples</a> </li>
 </ul>
