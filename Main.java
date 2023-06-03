@@ -55,8 +55,12 @@ public class Main {
         // calculoSimples.calculoPeca();
 
         // 1011 esfera
-        CalculaCirculo calculaCirculo = new CalculaCirculo();
-        calculaCirculo.calculaVolume();
+       // CalculaCirculo calculaCirculo = new CalculaCirculo();
+        // calculaCirculo.calculaVolume();
+
+        // 1012 - Area
+        AreaFiguras areaFiguras = new AreaFiguras();
+        areaFiguras.calculaArea();
     }
 
 }

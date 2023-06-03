@@ -28,4 +28,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Salario.java"> 1009 - Salario com bonus</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoSimples.java"> 1010 - Calculo Simples</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoCirculo.java"> 1011 - Esfera</a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/AreaFiguras.java"> 1012 - Área</a> </li>
 </ul>
