@@ -59,8 +59,12 @@ public class Main {
         // calculaCirculo.calculaVolume();
 
         // 1012 - Area
-        AreaFiguras areaFiguras = new AreaFiguras();
-        areaFiguras.calculaArea();
+        // AreaFiguras areaFiguras = new AreaFiguras();
+        // areaFiguras.calculaArea();
+
+        // 1013 - Maior
+      // Maior maior = new Maior();
+       // maior.maiorNumero();
     }
 
 }
