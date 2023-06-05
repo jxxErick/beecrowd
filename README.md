@@ -30,4 +30,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/CalculoCirculo.java"> 1011 - Esfera</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/AreaFiguras.java"> 1012 - Área</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Maior.java"> 1013 - O maior</a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Consumo.java"> 1014 - Consumo</a> </li>
 </ul>

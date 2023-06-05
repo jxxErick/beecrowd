@@ -65,6 +65,10 @@ public class Main {
         // 1013 - Maior
       // Maior maior = new Maior();
        // maior.maiorNumero();
+
+        // 1014 - Consumo
+        Consumo consumo = new Consumo();
+        consumo.calculaConsumo();
     }
 
 }
