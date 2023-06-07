@@ -67,8 +67,12 @@ public class Main {
        // maior.maiorNumero();
 
         // 1014 - Consumo
-        Consumo consumo = new Consumo();
-        consumo.calculaConsumo();
+        // Consumo consumo = new Consumo();
+        // consumo.calculaConsumo();
+
+        // 1015 - Distancia entre dois pontos
+        Distancia distancia = new Distancia();
+        distancia.distanciaEntreDoisPontos();
     }
 
 }
