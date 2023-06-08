@@ -75,8 +75,11 @@ public class Main {
        // distancia.distanciaEntreDoisPontos();
 
         // 1016 - Distancia
+       // Distancia distancia = new Distancia();
+        // distancia.distanciaDeDoisCarrosEmMinutos();
+
         Distancia distancia = new Distancia();
-        distancia.distanciaDeDoisCarrosEmMinutos();
+        distancia.gastoDeCombustivel();
     }
 
 }

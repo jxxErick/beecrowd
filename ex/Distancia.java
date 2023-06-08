@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Distancia {
 
-        // Distancia entre dois pontos recebendo x e y e usando a formula estabelecida
+        //1015 - Distancia entre dois pontos recebendo x e y e usando a formula estabelecida
     public void distanciaEntreDoisPontos(){
         Scanner sc = new Scanner(System.in);
 
@@ -28,7 +28,7 @@ public class Distancia {
         sc.close();
     }
 
-    // Distancia de dois carros, calcular o tempo que se leva para um (x) passar o outro (y)
+    //1016 - Distancia de dois carros, calcular o tempo que se leva para um (x) passar o outro (y)
 
     public void distanciaDeDoisCarrosEmMinutos ( ) {
         System.out.println("Digite a kilometragem que deseja saber ");
@@ -37,6 +37,25 @@ public class Distancia {
         int tempoMinutos = distancia * 2;
         System.out.println(tempoMinutos + " minutos");
         sc.close();
+    }
+
+    // 1017 - gasto de combustivel
+
+    public void gastoDeCombustivel ( ){
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Insira o tempo gasto na viagem em horas: ");
+        int tempo = sc.nextInt();
+
+        System.out.println("Insira a velocidade media em km/h: ");
+        int velocidade = sc.nextInt();
+
+        double distanciaPercorrida = velocidade * tempo;
+        double combustivelGasto = distanciaPercorrida / 12;
+
+        System.out.println(new DecimalFormat("#0.###").format(combustivelGasto));
+        sc.close();
+
     }
 
 
