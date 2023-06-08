@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Distancia {
 
+        // Distancia entre dois pontos recebendo x e y e usando a formula estabelecida
     public void distanciaEntreDoisPontos(){
         Scanner sc = new Scanner(System.in);
 
@@ -26,5 +27,17 @@ public class Distancia {
         System.out.print(new DecimalFormat("#0.####").format(distancia));
         sc.close();
     }
+
+    // Distancia de dois carros, calcular o tempo que se leva para um (x) passar o outro (y)
+
+    public void distanciaDeDoisCarrosEmMinutos ( ) {
+        System.out.println("Digite a kilometragem que deseja saber ");
+        Scanner sc = new Scanner (System.in);
+        int distancia  = sc.nextInt();
+        int tempoMinutos = distancia * 2;
+        System.out.println(tempoMinutos + " minutos");
+        sc.close();
+    }
+
 
 }

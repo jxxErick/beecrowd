@@ -71,8 +71,12 @@ public class Main {
         // consumo.calculaConsumo();
 
         // 1015 - Distancia entre dois pontos
+      //  Distancia distancia = new Distancia();
+       // distancia.distanciaEntreDoisPontos();
+
+        // 1016 - Distancia
         Distancia distancia = new Distancia();
-        distancia.distanciaEntreDoisPontos();
+        distancia.distanciaDeDoisCarrosEmMinutos();
     }
 
 }
