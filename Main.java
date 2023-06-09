@@ -78,8 +78,13 @@ public class Main {
        // Distancia distancia = new Distancia();
         // distancia.distanciaDeDoisCarrosEmMinutos();
 
-        Distancia distancia = new Distancia();
-        distancia.gastoDeCombustivel();
+        // 1017 - combustivel
+      //  Distancia distancia = new D00istancia();
+       // distancia.gastoDeCombustivel();
+
+        //1018 - cedulas
+        Cedulas cedulas = new Cedulas();
+        cedulas.contaCedula();
     }
 
 }

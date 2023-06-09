@@ -33,4 +33,6 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Consumo.java"> 1014 - Consumo</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Distancia.java"> 1015 - Distância entre dois pontos</a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Distancia.java"> 1016 - Distância </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Distancia.java"> 1017 - Gasto de Combustível </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Cedulas.java"> 1018 - Cédulas </a> </li>
 </ul>
