@@ -83,8 +83,13 @@ public class Main {
        // distancia.gastoDeCombustivel();
 
         //1018 - cedulas
-        Cedulas cedulas = new Cedulas();
-        cedulas.contaCedula();
+       // Cedulas cedulas = new Cedulas();
+       // cedulas.contaCedula();
+
+        //1019 - Conversao de tempo
+        Tempo tempo = new Tempo();
+        tempo.conversaoDeTempo();
+
     }
 
 }
