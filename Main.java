@@ -87,9 +87,12 @@ public class Main {
        // cedulas.contaCedula();
 
         //1019 - Conversao de tempo
-        Tempo tempo = new Tempo();
-        tempo.conversaoDeTempo();
+        // Tempo tempo = new Tempo();
+        // tempo.conversaoDeTempo();
 
+        // 1020 - Idade em dias
+        Idade idade = new Idade();
+        idade.idadeEmTempo();
     }
 
 }
