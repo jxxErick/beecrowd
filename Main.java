@@ -91,8 +91,12 @@ public class Main {
         // tempo.conversaoDeTempo();
 
         // 1020 - Idade em dias
-        Idade idade = new Idade();
-        idade.idadeEmTempo();
+       // Idade idade = new Idade();
+       // idade.idadeEmTempo();
+
+        //1021 - notas e moedas
+        Cedulas cedulas = new Cedulas();
+        cedulas.contaCedulaEMoeda();
     }
 
 }

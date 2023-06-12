@@ -37,4 +37,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Cedulas.java"> 1018 - Cédulas </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Tempo.java"> 1019 - Conversão de tempo </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Idade.java"> 1020 - Idade em tempo </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Cedulas.java"> 1021 - Notas e moedas </a> </li>
 </ul>
