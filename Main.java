@@ -95,8 +95,12 @@ public class Main {
        // idade.idadeEmTempo();
 
         //1021 - notas e moedas
-        Cedulas cedulas = new Cedulas();
-        cedulas.contaCedulaEMoeda();
+      //  Cedulas cedulas = new Cedulas();
+       // Cedulas.contaCedulaEMoeda();
+
+        // 1035 - Teste de Seleção 1
+        TesteDeSelecao testeDeSelecao = new TesteDeSelecao();
+        testeDeSelecao.testeDeValores();
     }
 
 }
