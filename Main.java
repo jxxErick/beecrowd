@@ -99,8 +99,12 @@ public class Main {
        // Cedulas.contaCedulaEMoeda();
 
         // 1035 - Teste de Seleção 1
-        TesteDeSelecao testeDeSelecao = new TesteDeSelecao();
-        testeDeSelecao.testeDeValores();
+      //  TesteDeSelecao testeDeSelecao = new TesteDeSelecao();
+       // testeDeSelecao.testeDeValores();
+
+        // 1036 - formula de bhaskara
+        Bhaskara bhaskara = new Bhaskara();
+        bhaskara.formulaDeBhaskara();
     }
 
 }
