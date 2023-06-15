@@ -19,7 +19,7 @@ public class Bhaskara {
 
         double delta = Math.pow(b, 2) - (4*a *c);
 
-        if (Math.sign ){
+        if (delta >= 0 ){
             double primeiroResultado = ((- b) + Math.sqrt(delta)) / (2 * a);
             double segundoResultado = ((- b) - Math.sqrt(delta)) / (2 * a);
             System.out.println("R1 = " + new DecimalFormat("0.#####").format(primeiroResultado));
