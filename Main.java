@@ -103,8 +103,12 @@ public class Main {
        // testeDeSelecao.testeDeValores();
 
         // 1036 - formula de bhaskara
-        Bhaskara bhaskara = new Bhaskara();
-        bhaskara.formulaDeBhaskara();
+        // Bhaskara bhaskara = new Bhaskara();
+        // bhaskara.formulaDeBhaskara();
+
+        // 1037 - Intervalo
+        Intervalo intervalo = new Intervalo();
+        intervalo.intervalo();
     }
 
 }

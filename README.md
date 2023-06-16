@@ -40,4 +40,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Cedulas.java"> 1021 - Notas e moedas </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/TesteDeSelecao.java"> 1035 - Teste de seleçao 1 </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Bhaskara.java"> 1036 - Bhaskara </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Intervalo.java"> 1037 - Intervalo </a> </li>
 </ul>

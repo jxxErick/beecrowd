@@ -7,6 +7,7 @@ import static java.lang.Double.parseDouble;
 
 public class Bhaskara {
 
+    // 1036 - ex basico pra calcular bhaskara
     public void formulaDeBhaskara( ){
         System.out.println("Insira os valores de a b e c: ");
         Scanner sc = new Scanner(System.in);
