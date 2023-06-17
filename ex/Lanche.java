@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Lanche {
 
+    // Lanche - Basicamente, analise o codigo de uma determinada tabela de preço, e retorna o lanche em especifico
+    // multiplicado pela quantidade, iniciei o array com 0 pra anular a posição 0
     public void calculaLanche () {
         Scanner sc = new Scanner(System.in);
 
