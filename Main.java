@@ -107,8 +107,12 @@ public class Main {
         // bhaskara.formulaDeBhaskara();
 
         // 1037 - Intervalo
-        Intervalo intervalo = new Intervalo();
-        intervalo.intervalo();
+        // Intervalo intervalo = new Intervalo();
+        // intervalo.intervalo();
+
+        // 1038 - lanche
+        Lanche lanche = new Lanche();
+        lanche.calculaLanche();
     }
 
 }
