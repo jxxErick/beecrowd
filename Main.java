@@ -111,8 +111,8 @@ public class Main {
         // intervalo.intervalo();
 
         // 1038 - lanche
-        Lanche lanche = new Lanche();
-        lanche.calculaLanche();
+       // Lanche lanche = new Lanche();
+        // lanche.calculaLanche();
     }
 
 }
