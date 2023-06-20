@@ -113,6 +113,10 @@ public class Main {
         // 1038 - lanche
        // Lanche lanche = new Lanche();
         // lanche.calculaLanche();
+
+        // 1040 - media 3
+        Media media = new Media();
+        media.mediaCompleta();
     }
 
 }

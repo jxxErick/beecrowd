@@ -33,4 +33,49 @@ public class Media {
         }
         sc.close();
     }
+
+    // 1040 - media 3
+
+    public void mediaCompleta () {
+    Scanner sc = new Scanner(System.in);
+
+    String numeros = sc.nextLine();
+    String numero[] = numeros.split(" ");
+
+    // notas com peso
+
+    double nUm = Double.parseDouble(numero[0]) * 2;
+    double nDois = Double.parseDouble(numero[1]) * 3;
+    double nTres = Double.parseDouble(numero[2]) * 4;
+    double nQuatro = Double.parseDouble(numero[3]);
+
+
+
+    // media
+    double media = (nUm + nDois + nTres + nQuatro) / 10;
+
+
+    System.out.println("Media: " + new DecimalFormat("0.#").format(media));
+    if (!numero[4].isEmpty() && media <= 7) {
+        double nCinco = Double.parseDouble(numero[4]);
+        System.out.println("Aluno em exame");
+        System.out.println("Nota do exame: " + nCinco);
+        double mediaComExame = (nUm + nDois + nTres + nQuatro + nCinco) /11;
+        if (mediaComExame >= 7){
+            System.out.println("Aluno Aprovado");
+            System.out.println("Media final: " + new DecimalFormat("0.#").format(mediaComExame));
+        }  else {
+            System.out.println("Media: " + new DecimalFormat("0.#").format(mediaComExame));
+            System.out.println("Aluno reprovado! ");
+        }
+    } else if (media >= 7){
+        System.out.println("Media: " + new DecimalFormat("0.#").format(media));
+        System.out.println("Aluno Aprovado");
+    } else {
+        System.out.println("Media: " + new DecimalFormat("0.#").format(media));
+        System.out.println("Aluno reprovado! ");
+    }
+
+    sc.close();
+    }
 }
