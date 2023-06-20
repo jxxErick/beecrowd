@@ -42,5 +42,6 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Bhaskara.java"> 1036 - Bhaskara </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Intervalo.java"> 1037 - Intervalo </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Lanche.java"> 1038 - Lanche </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Media.java"> 1040 - Media 3 </a> </li>
 
 </ul>
