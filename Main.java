@@ -115,8 +115,8 @@ public class Main {
         // lanche.calculaLanche();
 
         // 1040 - media 3
-        Media media = new Media();
-        media.mediaCompleta();
+      //  Media media = new Media();
+       // media.mediaCompleta();
     }
 
 }
