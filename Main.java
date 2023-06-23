@@ -117,6 +117,11 @@ public class Main {
         // 1040 - media 3
       //  Media media = new Media();
        // media.mediaCompleta();
+
+        // 1041 - Coordenadas de um ponto
+
+
+
     }
 
 }
