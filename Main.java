@@ -119,8 +119,8 @@ public class Main {
        // media.mediaCompleta();
 
         // 1041 - Coordenadas de um ponto
-        Coordenadas coordenadas = new Coordenadas();
-        coordenadas.calculaCoordenadas();
+       // Coordenadas coordenadas = new Coordenadas();
+      //  coordenadas.calculaCoordenadas();
 
 
     }
