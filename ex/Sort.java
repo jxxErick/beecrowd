@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 public class Sort {
 
+    // sort simples n tem segredo
     public void sortSimples( ){
         Scanner sc = new Scanner(System.in);
 
