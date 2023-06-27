@@ -123,7 +123,8 @@ public class Main {
       // coordenadas.calculaCoordenadas();
 
         // 1042 - Sort Simples
-
+        Sort sort = new Sort();
+        sort.sortSimples();
     }
 
 }
