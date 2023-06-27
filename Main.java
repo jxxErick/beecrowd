@@ -122,6 +122,7 @@ public class Main {
        // Coordenadas coordenadas = new Coordenadas();
       // coordenadas.calculaCoordenadas();
 
+        // 1042 - Sort Simples
 
     }
 
