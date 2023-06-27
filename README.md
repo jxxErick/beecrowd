@@ -44,5 +44,5 @@ Usarei mais java para desenvolver os exercicios, criarei uma classe indiviudal p
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Lanche.java"> 1038 - Lanche </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Media.java"> 1040 - Media 3 </a> </li>
 <li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Coordenadas.java"> 1041 - Coordenadas de um ponto </a> </li>
-<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Sort.java"> 1041 - Coordenadas de um ponto </a> </li>
+<li><a href="https://github.com/jxxErick/beecrowd/blob/master/ex/Sort.java"> 1042 - Sort Simples </a> </li>
 </ul>
